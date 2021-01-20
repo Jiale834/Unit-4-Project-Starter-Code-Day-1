@@ -1,0 +1,42 @@
+img {
+    height: 200px;
+}
+
+.menu {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: lightgreen;
+    border: 2px solid grey;
+    width: 986px;
+}
+
+.menuitem {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+
+.format {
+    display: flex;
+    width: 180px;
+}
+
+.pcolumn {
+    padding: 25px;
+    border: 2px groove lightgreen;
+}
+
+.qcolumn {
+    padding: 25px;
+    border: 2px groove lightgreen;
+}
+
+.acolumn {
+    padding: 25px;
+    border: 2px groove lightgreen;
+}
+
+.bigimg {
+    width: 200px;
+}
